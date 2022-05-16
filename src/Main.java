@@ -23,7 +23,7 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter a number (Step 1): ");
 		// Produce an integer by dividing your byte by a number input in the terminal
-
+		// Test Text
 		System.out.println("Integer: " + ((Object) (b / sc.nextInt())).getClass().getName());
 		// Produce a long by multiplying your short by a number input in the terminal
 		System.out.println("Enter a number (Step 2): ");
